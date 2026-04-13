@@ -6,12 +6,13 @@
 
 ## Skills
 - Python
-- JavaScript
+- Core Java
 - HTML/CSS
 
 ## Projects
 - Persian Solitaire Game
 - DSA Practice
+- 150+ leetcode problems
 
 ## Contact
-- Email: your@email.com
+- Email: brijeshyadavytlcse@gmail.com
