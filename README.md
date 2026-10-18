@@ -14,5 +14,4 @@
 - DSA Practice
 - 150+ leetcode problems
 
-## Contact
-- Email: brijeshyadavytlcse@gmail.com
+
