@@ -1,5 +1,5 @@
 # 💫 About Me:
-# Hi, I'm Brijesh 👋<br><br>I learn Data Science and Machine Learning by building and publishing the code.<br><br>Most of my work starts the same way: I pick one concept, build the smallest working version in a notebook, test it on a real dataset, and push it to my repo, [AI-Data-Science-project](https://github.com/brijesh-rgb/AI-Data-Science-project).<br><br>The repo is organised topic-wise, from Python and NumPy to Pandas, Matplotlib, Seaborn, SQL and Machine Learning. Every notebook is small enough to understand in one sitting.<br><br>## Lately, I've been working on<br><br>- Data gathering: reading CSV, JSON, APIs and web scraping<br>- Data cleaning: handling missing values and messy datasets<br>- Feature engineering for Machine Learning models<br>- Machine Learning with scikit-learn<br>- SQL for data analysis<br>- DSA practice: 170+ LeetCode problems solved<br>
+Hi, I'm Brijesh 👋<br><br>I learn Data Science and Machine Learning by building projects in Python, one concept at a time. I keep my notebooks organised topic-wise on GitHub and solve DSA problems on LeetCode (170+ solved). Right now I'm exploring feature engineering, scikit-learn and SQL, and I'm looking for a Data Science internship to apply what I've learned.
 
 
 # 💻 Tech Stack:
